@@ -1,0 +1,1125 @@
+{
+  "projects": [
+    {
+      "dateAdded": "2026-05-06",
+      "client": "PT Velasto Indonesia",
+      "title": "Design Banner Acara Convention Internal",
+      "images": [
+        "/uploads/projects-1788506409435-hhqpye.jpg",
+        "/uploads/projects-1788506273158-qn0p6y.jpg",
+        "/uploads/projects-1788506274358-canqlm.jpg",
+        "/uploads/projects-1788506275526-40fnpt.jpg"
+      ],
+      "status": "Published",
+      "tags": [
+        "Canva"
+      ],
+      "description": "Designed the visual identity and promotional materials for the 5th Internal Innovation Convention at PT Velasto Indonesia. This project includes the creation of event banners, stage backdrops, and photobooth designs using Canva. The design theme aligns with the company's 'Driving Continuous Improvement' initiative to support and celebrate employee innovations.",
+      "id": "1",
+      "category": "Graphic Design",
+      "image": "/uploads/projects-1788506409435-hhqpye.jpg"
+    },
+    {
+      "title": "RuangHub",
+      "client": "Personal Project",
+      "tags": [
+        "Laravel",
+        "PHP",
+        "Tailwind CSS",
+        "JavaScript",
+        "MySQL",
+        "Vite.js",
+        "React"
+      ],
+      "dateAdded": "2026-10-02",
+      "status": "Published",
+      "link": "https://ruanghub.vercel.app",
+      "images": [
+        "/uploads/projects-1790655853849-3stxrs.jpg"
+      ],
+      "description": "RuangHub is a web-based room booking management system designed to enable employees to efficiently book meeting rooms or other office facilities.",
+      "id": "2",
+      "category": "Web Development",
+      "image": "/uploads/projects-1790655853849-3stxrs.jpg"
+    },
+    {
+      "category": "Web Development",
+      "description": "Comingsoon",
+      "client": "Personal Project",
+      "tags": [
+        "Vite.js",
+        "Tailwind CSS",
+        "PHP",
+        "Laravel",
+        "React",
+        "MySQL",
+        "Javascript"
+      ],
+      "image": "/uploads/projects-1791255925261-geaffx.jpg",
+      "images": [
+        "/uploads/projects-1791255925261-geaffx.jpg"
+      ],
+      "link": "https://gudangkita.up.railway.app",
+      "status": "Published",
+      "id": "3",
+      "dateAdded": "2026-10-02",
+      "title": "Gudang Kita"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDzgldT5QN-XxcdQEdxwMOkmt7D4sMoe9wHi5Qsnvqdo_jFB8WRvlFkyiBeCeCyiPG8mV-B0eeQTCdjUPVUmoD3vCUw4vUiXkYqEsg_rr3giUdXlgqiMN_mAheBO7ZJ0XhwSaQ2lie_unOajBhpi32ex4NhZ2_8KlPVD1ACyI7GtGAW2utBrqrhcwk1vN_HbJablRdvu4zAoZdzbQ1TFQMOdku-YcGw9ACpZuvpJUZYIFoMB1n0oyr_hprAD_4265OpBnbPXhCCSj8",
+      "id": "4",
+      "description": "A highly abstract, generative art piece created with code, featuring intersecting glowing neon blue lines on a completely black void background.",
+      "status": "Draft",
+      "dateAdded": "2023-12-15",
+      "title": "Quantum Web Framework",
+      "tags": [
+        "TypeScript",
+        "WebGL"
+      ],
+      "client": "Open Source",
+      "category": "Web Development"
+    }
+  ],
+  "skills": [
+    {
+      "status": "Published",
+      "proficiency": 90,
+      "id": "s1",
+      "icon": "/uploads/skills-1788502296856-26wspz.png",
+      "category": "Office",
+      "title": "Microsoft Word"
+    },
+    {
+      "proficiency": 85,
+      "category": "Office",
+      "title": "Microsoft Excel",
+      "icon": "/uploads/skills-1788502336636-wkm2xx.png",
+      "id": "s2",
+      "status": "Published"
+    },
+    {
+      "icon": "/uploads/skills-1788502372184-yacubd.png",
+      "proficiency": 90,
+      "status": "Published",
+      "title": "Microsoft PowerPoint",
+      "id": "s3",
+      "category": "Office"
+    },
+    {
+      "title": "Canva",
+      "icon": "/uploads/skills-1790982324053-cr9zxb.png",
+      "proficiency": 85,
+      "category": "Design",
+      "id": "s4",
+      "status": "Published"
+    },
+    {
+      "category": "Backend",
+      "proficiency": 80,
+      "id": "s-1788502532488",
+      "status": "Published",
+      "title": ".NET",
+      "icon": "/uploads/skills-1788502528792-zoxhbe.png"
+    },
+    {
+      "icon": "/uploads/skills-1788502561436-7hz4s0.png",
+      "title": "C#",
+      "proficiency": 80,
+      "status": "Published",
+      "id": "s-1788502565173",
+      "category": "Programming Language"
+    },
+    {
+      "title": "Vite.js",
+      "category": "Frontend",
+      "icon": "/uploads/skills-1788502577438-i23lq5.png",
+      "id": "s-1788502585388",
+      "proficiency": 80,
+      "status": "Published"
+    },
+    {
+      "id": "s-1788502604822",
+      "proficiency": 80,
+      "status": "Published",
+      "category": "Tools / IDE",
+      "title": "Antigravity",
+      "icon": "/uploads/skills-1788502595514-og53jp.png"
+    },
+    {
+      "proficiency": 80,
+      "category": "Analytics",
+      "status": "Published",
+      "id": "s-1788502624519",
+      "icon": "/uploads/skills-1788502616741-uoe0id.png",
+      "title": "IBM SPSS"
+    },
+    {
+      "proficiency": 80,
+      "id": "s-1788502659626",
+      "icon": "/uploads/skills-1788502642827-idigqs.png",
+      "status": "Published",
+      "title": "Microsoft Office Visio",
+      "category": "Tools / IDE"
+    },
+    {
+      "status": "Published",
+      "proficiency": 80,
+      "category": "Frontend",
+      "icon": "/uploads/skills-1788502681292-6mm8hk.png",
+      "title": "Tailwind CSS",
+      "id": "s-1788502694176"
+    },
+    {
+      "title": "PostgresSQL",
+      "icon": "/uploads/skills-1788502713745-xlyao9.png",
+      "category": "Database",
+      "proficiency": 80,
+      "status": "Published",
+      "id": "s-1788502719791"
+    },
+    {
+      "status": "Published",
+      "id": "s-1788502747763",
+      "category": "Frontend",
+      "proficiency": 80,
+      "icon": "/uploads/skills-1788502740946-bt9rjo.png",
+      "title": "React"
+    },
+    {
+      "status": "Published",
+      "proficiency": 80,
+      "category": "Design / UI-UX",
+      "icon": "/uploads/skills-1788502761490-kv7pia.png",
+      "id": "s-1788502769210",
+      "title": "Figma"
+    },
+    {
+      "title": "PHP",
+      "icon": "/uploads/skills-1788502783040-if32wi.png",
+      "category": "Backend",
+      "status": "Published",
+      "proficiency": 80,
+      "id": "s-1788502786259"
+    },
+    {
+      "id": "s-1788502861612",
+      "icon": "/uploads/skills-1788502856090-gezyyg.png",
+      "proficiency": 80,
+      "title": "TypeScript",
+      "status": "Published",
+      "category": "Programming Language"
+    },
+    {
+      "category": "Backend",
+      "id": "s-1788502894766",
+      "title": "Laravel",
+      "status": "Published",
+      "icon": "/uploads/skills-1788502889499-l55d9n.png",
+      "proficiency": 80
+    },
+    {
+      "proficiency": 80,
+      "status": "Published",
+      "id": "s-1788502916165",
+      "icon": "/uploads/skills-1788502910632-7xiwj3.png",
+      "title": "Next.js",
+      "category": "Frontend"
+    },
+    {
+      "icon": "/uploads/skills-1788502931897-uddawk.png",
+      "title": "MySQL",
+      "category": "Database",
+      "proficiency": 80,
+      "id": "s-1788502937763",
+      "status": "Published"
+    },
+    {
+      "title": "Visual Studio Code",
+      "proficiency": 80,
+      "category": "Tools / IDE",
+      "icon": "/uploads/skills-1788502971068-hxjzxt.png",
+      "status": "Published",
+      "id": "s-1788502978829"
+    },
+    {
+      "id": "s-1790914434658",
+      "icon": "/uploads/skills-1791010709633-vucdgw.png",
+      "category": "Frontend",
+      "status": "Published",
+      "proficiency": 80,
+      "title": "JavaScript"
+    },
+    {
+      "proficiency": 80,
+      "id": "s-1791006812977",
+      "title": "Git",
+      "icon": "/uploads/skills-1791006807675-afufzf.png",
+      "category": "Frontend",
+      "status": "Published"
+    },
+    {
+      "icon": "/uploads/skills-1791006953340-cbdmvl.png",
+      "id": "s-1791006963225",
+      "proficiency": 80,
+      "status": "Published",
+      "title": "Node.js",
+      "category": "Frontend"
+    },
+    {
+      "status": "Published",
+      "id": "s-1791009029417",
+      "icon": "/uploads/skills-1791009010146-o09jnk.png",
+      "proficiency": 80,
+      "category": "Data Base",
+      "title": "Firebase"
+    },
+    {
+      "title": "SQLite",
+      "icon": "/uploads/skills-1791009039876-ysvcce.png",
+      "category": "Data Base",
+      "status": "Published",
+      "id": "s-1791009057408",
+      "proficiency": 80
+    }
+  ],
+  "experiences": [
+    {
+      "id": "e-1789772896120",
+      "location": "Purwakarta, Jawa Barat, Indonesia",
+      "title": "General Affair Intern",
+      "media": [],
+      "description": "Peserta Program MagangHub Kementerian Ketenagakerjaan Republik Indonesia (Kemnaker) Batch 2 Angkatan II ",
+      "tags": [],
+      "years": "September 2026 - Present",
+      "company": "PT Handal Indonesia",
+      "logo": "/uploads/logo-1789784805979-szchew.png"
+    },
+    {
+      "title": "Innovation Committee Intern",
+      "tags": [
+        "Komite",
+        "Koordinasi Event",
+        "Quality Control",
+        "QCC/QCP"
+      ],
+      "company": "PT Velasto Indonesia",
+      "location": "Purwakarta, Jawa Barat, Indonesia",
+      "media": [
+        {
+          "url": "/uploads/exp-1789772667289-rc4ikz.jpg",
+          "caption": "Surat Keterangan Magang Komite",
+          "id": "media-1789772666552-kuanp"
+        },
+        {
+          "url": "/uploads/exp-1790663841464-qkrck1.jpg",
+          "id": "media-1790663841406-78pza",
+          "caption": "Internship Certificate"
+        }
+      ],
+      "logo": "/uploads/logo-1789772539574-v2fr0e.png",
+      "years": "January 2026 - August 2026",
+      "id": "e-1789772690202",
+      "description": "Melakukan 5S ditempat kerja\nMendukung Komite Inovasi dalam mengelola program perbaikan berkelanjutan (Continuous Improvement) dan mengembangkan solusi digital berbasis web untuk efisiensi operasional.\nMengelola pendaftaran QCC, QCP, dan SS ke pihak eksternal, termasuk komunikasi langsung dengan supplier terkait proses pendaftaran.\nMembuat payment request melalui sistem SSC (Shared Service Center) untuk keperluan pembayaran pendaftaran QCC, QCP, dan SS.\nMelakukan input perjalanan dinas ke sistem Sunfish dan membuat Payment Request (PR) ke SSC untuk keperluan reimbursement saat kunjungan/urusan ke luar kantor.\nMenyusun jadwal penjurian internal QCC, QCP, dan SS, serta menginformasikan jadwal tersebut ke setiap leader tim circle agar pelaksanaan berjalan lancar.\nMenyusun KPI department Komite.\nMelakukan rekapitulasi SS setiap bulan dan membuat sertifikat best SS untuk acara SS Awarding.\nMendesain banner acara, layar panggung, dan banner photobooth untuk Konvensi Inovasi.\nMerancang dan membangun aplikasi berbasis Google Apps Script, termasuk sistem absensi digital untuk acara konvensi."
+    },
+    {
+      "media": [
+        {
+          "url": "/uploads/exp-1788495951817-v0hnyq.jpg",
+          "id": "media-1788495952305-6oe50",
+          "caption": "Dokumentasi Bersama Pembimbing Lapangan"
+        },
+        {
+          "caption": "Juara 2 Internal Convention ke-4",
+          "url": "/uploads/exp-1788495990079-5nac01.jpg",
+          "id": "media-1788495990451-ahwbk"
+        },
+        {
+          "url": "/uploads/exp-1788509201493-bg8c0e.jpg",
+          "caption": "Surat Keterangan Magang PPIC",
+          "id": "media-1788509201335-jpwz6"
+        }
+      ],
+      "location": "Purwakarta, Jawa Barat, Indonesia",
+      "logo": "/uploads/logo-1788494829782-dzm6s7.png",
+      "id": "e1",
+      "title": "Production Planning and Inventory Control (PPIC) Intern",
+      "company": "PT Velasto Indonesia",
+      "tags": [
+        "PPIC",
+        "Delivery",
+        "Logistik",
+        "Ekspor"
+      ],
+      "description": "Melakukan 5S ditempat kerja\nMenjalankan dan memahami work instruction, check point, dan packing standard\nMengerti check point dan critical point\nMelakukan Goods Receipt (GR) di SAP untuk memastikan data penerimaan barang tercatat akurat dan sesuai dokumen fisik\nMelakukan input dan update data pengiriman ke sistem/database internal\nMelakukan input Delivery Note (DN) ke SAP sebagai bagian dari proses administrasi sebelum barang dikirim ke pelanggan\nMenyiapkan dokumen pengiriman (surat jalan, packing list, dll)\nMelakukan pengecekan kesesuaian jumlah dan jenis barang sebelum dikirim (quality check sebelum delivery)\nMembantu proses peralihan dari validasi manual ke sistem scan barcode/QR\nMembantu penataan rak (fix rack) sebelum proses packing supaya barang lebih mudah dicari\nMembantu mengelompokkan lokasi part di area kerja biar lebih rapi dan cepat diambil",
+      "years": "June 2025 – December 2025"
+    }
+  ],
+  "educations": [
+    {
+      "description": "Mahasiswa S1 Teknik Industri di Sekolah Tinggi Teknologi Wastukancana dengan minat pada manajemen proses, PPIC, logistik, efisiensi operasional, Lean Manufacturing, serta pengembangan sistem dan otomasi berbasis digital.",
+      "grade": "3,63",
+      "activitiesEN": "MABIM Committee as Equipment Division and MUMAS Committee as Secretary. Active in student activities, event administration, logistics coordination, document preparation, and campus programs.",
+      "schoolEN": "Wastukancana School of Technology Purwakarta",
+      "school": "Sekolah Tinggi Teknologi Wastukancana",
+      "id": "edu-4",
+      "softSkills": [
+        "Komunikasi Efektif",
+        "Kepemimpinan (Leadership)",
+        "Critical Thinking",
+        "Problem Solving",
+        "Kerja Sama Tim (Teamwork)",
+        "Manajemen Waktu",
+        "Adaptabilitas"
+      ],
+      "stage": "Sarjana Teknik, Industrial Engineering",
+      "logo": "https:/uploads/edu-logo-1791192422600-a6qsqm.png",
+      "years": "May 2022 – Aug 2026",
+      "stageEN": "Bachelor of Engineering, Industrial Engineering",
+      "descriptionEN": "Industrial Engineering student at Wastukancana School of Technology focusing on process management, PPIC, logistics, operational efficiency, Lean Manufacturing, and digital system automation.",
+      "hardSkills": [
+        "PPIC",
+        "Lean Manufacturing",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft Office",
+        "Line Balancing",
+        "Google Apps Script",
+        "Supply Chain Management"
+      ],
+      "activities": "Panitia MABIM sebagai Divisi Peralatan dan Panitia MUMAS sebagai Sekretaris. Aktif dalam kegiatan kemahasiswaan, administrasi acara, koordinasi kebutuhan perlengkapan, penyusunan dokumen, serta mendukung kelancaran pelaksanaan kegiatan kampus."
+    },
+    {
+      "stageEN": "Senior High School, Natural Sciences (IPA)",
+      "softSkills": [
+        "Manajemen Waktu",
+        "Kerja Sama Tim (Teamwork)",
+        "Kepemimpinan (Leadership)"
+      ],
+      "grade": "84",
+      "hardSkills": [
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft Office"
+      ],
+      "logo": "https:/uploads/edu-logo-1791192548711-l0mthg.png",
+      "activities": "Volleyball, Ekstrakurikuler Olahraga & Kepanitiaan Sekolah",
+      "schoolEN": "SMAN 1 Pasawahan",
+      "id": "edu-3",
+      "school": "SMAN 1 PASAWAHAN",
+      "years": "Jan 2020 – May 2022",
+      "activitiesEN": "Volleyball, Sports Club & School Committee Activities",
+      "description": "Menyelesaikan pendidikan menengah atas pada peminatan Ilmu Pengetahuan Alam (IPA) dengan prestasi akademik memuaskan serta aktif dalam bidang olahraga dan kolaborasi tim.",
+      "stage": "Sekolah Menengah Atas, Ilmu Pengetahuan Alam (IPA)",
+      "descriptionEN": "Completed senior high school education majoring in Natural Sciences (IPA) with solid academic achievement, actively engaged in athletic and collaborative team activities."
+    }
+  ],
+  "messages": [
+    {
+      "message": "Hi Alex, I would love to talk about building a supply chain optimization app for our warehouse. We noticed your industrial engineering background combined with React. Let us know when you are free to discuss!",
+      "status": "UNREAD",
+      "dateText": "2 hours ago",
+      "subject": "Project Inquiry",
+      "sender": "Jane Doe",
+      "email": "jane@example.com",
+      "id": "m1",
+      "senderInitials": "JD"
+    },
+    {
+      "id": "m2",
+      "dateText": "Yesterday",
+      "subject": "Freelance Opportunity",
+      "message": "Hello, our operations firm is looking for an interactive process dashboard. Your resume fits the hybrid IE/Dev background perfectly. Can we schedule a quick call this week?",
+      "senderInitials": "MS",
+      "email": "michael@smithops.com",
+      "status": "READ",
+      "sender": "Michael Smith"
+    },
+    {
+      "sender": "Alice Johnson",
+      "message": "Hello Alex! I was browsing through your featured work, specifically the Nexus Inventory System. We are looking for help on a similar glassmorphic user interface for our clients. Let me know if you do freelance consulting!",
+      "senderInitials": "AJ",
+      "subject": "UI Design Consultation",
+      "id": "m3",
+      "status": "READ",
+      "dateText": "Oct 24, 2023",
+      "email": "alice.j@designhq.io"
+    }
+  ],
+  "settings": {
+    "homeCardCreatorLabelEN": "Creator",
+    "sectionEducationEN": "Education History",
+    "menuAboutEN": "ABOUT",
+    "btnContactMeID": "Hubungi Saya",
+    "cvUrl": "/uploads/settings-cvurl-1788946117580-8my82.pdf",
+    "contactFormBtnID": "Kirim Pesan",
+    "homeCardCreatorLabelID": "Kreator",
+    "aboutBioID": "Lulusan baru S1 Teknik Industri dari STT Wastukancana Purwakarta (2022–2026) dengan minat karier di industri manufaktur dan jasa. Memiliki pengalaman praktis di PT Velasto Indonesia melalui program magang di bidang Komite Digitalisasi & Otomasi dan PPIC (Delivery), mencakup administrasi program continuous improvement (QCC, QCP, 5S), pengembangan aplikasi berbasis web untuk efisiensi operasional, hingga administrasi pengiriman dan implementasi sistem scan barcode/QR untuk meminimasi validasi manual. Terbiasa berkoordinasi langsung dengan supplier dan lintas divisi, serta memiliki ketelitian tinggi dalam pengolahan data. Terampil menggunakan Microsoft Office (Excel, Word, PowerPoint, Visio), Google Apps Script, dan desain visual sederhana (Canva).",
+    "contactFormTitleEN": "Get In Touch Now",
+    "instagramUrlIcon": "",
+    "homeJobTitle": "Industrial Engineering",
+    "resumeFileName": "CV FIKRI YANDI.pdf",
+    "smtpHost": "",
+    "contactHubungiEN": "Contact Our Studio",
+    "showProjectsSection": true,
+    "contactEmailIcon": "",
+    "showSkillsSection": true,
+    "btnContactMeEN": "Contact Me",
+    "showPublicationsSection": true,
+    "sectionCareerEN": "Career Records",
+    "sectionExperienceHomeID": "Pengalaman Kerja",
+    "bubbleChatTextEN": "Hi there! 👋",
+    "homeCardStatusText": "Online",
+    "sectionSkillsID": "Matriks Skill",
+    "aboutRoleCapsuleBg": "#10b981",
+    "taglineEN": "Industrial Engineering",
+    "linkedinUrl": "https://linkedin.com/in/fikri-yandi-18368529a",
+    "sectionAboutEN": "ABOUT ME",
+    "instagramUrl": "https://instagram.com/fikrry_andi",
+    "skillsMarqueeDirection": "left",
+    "menuHomeEN": "HOME",
+    "taglineID": "Industrial Engineering",
+    "bubbleFollowerTextID": "Follower",
+    "homeCardHandle": "Fikri Yandi",
+    "menuPortfolioEN": "PORTFOLIO",
+    "menuAboutID": "ABOUT",
+    "homeBioEN": "Experienced in enhancing operational efficiency through the implementation of Continuous Improvement, PPIC management, and web-based system automation.",
+    "githubUrlIcon": "",
+    "bubbleCollabTitleEN": "Collaborations",
+    "btnViewWorkEN": "View Work",
+    "aboutNameCapsuleBg": "#3b82f6",
+    "menuHomeID": "HOME",
+    "ownerName": "Fikri Yandi, S.T",
+    "bubbleCollabTitleID": "Collaborations",
+    "bubbleFollowerTextEN": "Follower",
+    "bubbleSayLabelID": "Fikri says:",
+    "githubUrl": "https://github.com/fikrryandi",
+    "whatsappBusinessIcon": "",
+    "showExperienceSection": true,
+    "menuContactID": "CONTACT",
+    "aboutSectionTitleEN": "Professional Experience in Digital Sphere",
+    "enableIntroAnimation": false,
+    "skillsMarqueeSpeed": 30,
+    "bubbleChatTextID": "Hi there! 👋",
+    "aboutSectionTitleID": "Pengalaman Profesional di Bidang Digital",
+    "sectionPublicationsEN": "Journal Publications",
+    "contactFormTitleID": "Hubungi Saya Sekarang",
+    "bubbleCollabDescID": "Let's build a magnificent digital product together! 🚀",
+    "sectionCareerID": "Pengalaman Kerja",
+    "enableEmailNotify": false,
+    "menuPortfolioID": "PORTFOLIO",
+    "smtpPort": "465",
+    "homeCardStatusColor": "#10b981",
+    "bubbleSayLabelEN": "Fikri says:",
+    "profilePicUrl": "/uploads/settings-profilepicurl-1788494894792-jp9i1.webp",
+    "homeBioID": "Berpengalaman dalam meningkatkan efisiensi operasional melalui penerapan Continuous Improvement, tata kelola PPIC, dan otomasi sistem berbasis web.",
+    "senderName": "Fikri Portfolio Form",
+    "linkedinUrlIcon": "",
+    "smtpPass": "",
+    "maintenanceMode": false,
+    "homeHeadingSubtitle": "Hello Mate 👋",
+    "mapOpenUrl": "https://maps.google.com/?q=Purwakarta,West+Java,Indonesia",
+    "sectionPublicationsID": "Publikasi Jurnal",
+    "menuHireMeEN": "HIRE ME",
+    "showHeroSection": true,
+    "sectionSkillsEN": "Skill Matrix",
+    "smtpUser": "",
+    "sectionEducationID": "Riwayat Pendidikan",
+    "showCertificatesSection": true,
+    "adminPassword": "fikri06",
+    "sectionAboutID": "TENTANG SAYA",
+    "showEducationSection": true,
+    "aboutBioEN": "A recent Industrial Engineering graduate from STT Wastukancana Purwakarta (2022–2026) with a career interest in the manufacturing and service industries. Gained practical experience at PT Velasto Indonesia through internships in the Digitalization & Automation Committee and PPIC (Delivery) departments; responsibilities included administering continuous improvement programs (QCC, QCP, 5S), developing web-based applications to enhance operational efficiency, and managing delivery administration and barcode/QR scanning systems to minimize manual validation. Experienced in coordinating directly with suppliers and cross-functional teams, with a strong attention to detail in data processing. Proficient in Microsoft Office (Excel, Word, PowerPoint, Visio), Google Apps Script, and basic visual design (Canva).",
+    "siteTitle": "Portofolio Fikrry",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.8562305886567!2d107.43981557454848!3d-6.5398284639434415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e690ee0b4c8033d%3A0xe76e33fd43987f2!2sPurwakarta%2C%20West%20Java!5e0!3m2!1sen!2sid!4v1716942100000!5m2!1sen!2sid",
+    "btnViewWorkID": "Lihat Portfolio",
+    "whatsappBusiness": "+62 838-1774-5869",
+    "cvFileName": "CV FIKRI YANDI.pdf",
+    "contactHubungiID": "Hubungi Studio Kami",
+    "contactFormBtnEN": "Send Message",
+    "metaDescription": "Saya adalah seorang profesional yang siap membantu menciptakan identitas digital impian bisnis Anda dengan hasil memukau.",
+    "sectionExperienceHomeEN": "Work Experience",
+    "bubbleFollowerCount": "1",
+    "themeMode": "light",
+    "bubbleCollabDescEN": "Let's build a magnificent digital product together! 🚀",
+    "profilePicUrlHome": "/uploads/settings-profilepicurlhome-1788494894865-5y2bj.webp",
+    "showAboutSection": true,
+    "adminUsername": "fikrryaa",
+    "menuContactEN": "CONTACT",
+    "menuHireMeID": "HIRE ME",
+    "contactEmail": "fikrryandi@gmail.com"
+  },
+  "certificates": [
+    {
+      "title": "Certificate of Attendance",
+      "credentialUrl": "",
+      "issuer": "Google Student Ambassador",
+      "description": "",
+      "id": "cert-1",
+      "issueDate": "13 December 2025",
+      "image": "/uploads/certificates-1788502999682-py9q28.jpg"
+    },
+    {
+      "id": "cert-2",
+      "title": "AI for Digital Marketing",
+      "issuer": "Asosiasi Digital Marketing Indonesia",
+      "credentialUrl": "",
+      "description": "",
+      "issueDate": "16 November 2024",
+      "image": "/uploads/certificates-1788503102913-j7qp78.jpg"
+    },
+    {
+      "issueDate": "13 December 2025",
+      "image": "/uploads/certificates-1788503239613-4sb9os.jpg",
+      "credentialUrl": "",
+      "issuer": "Teknik Informatika",
+      "id": "cert-3",
+      "title": "Certificate of Appreciation",
+      "description": ""
+    },
+    {
+      "issuer": "STT Wastukancana",
+      "issueDate": "December 2025",
+      "credentialUrl": "",
+      "image": "/uploads/certificates-1788508760374-0q24qx.jpg",
+      "title": "Certificate of Appreciation",
+      "description": "",
+      "id": "cert-1788508613861"
+    },
+    {
+      "title": "Certificate of Appreciation",
+      "issueDate": "December 2025",
+      "credentialUrl": "",
+      "id": "cert-1788508634972",
+      "description": "",
+      "image": "/uploads/certificates-1788508779173-cm1noo.jpg",
+      "issuer": "STT Wastukancana"
+    },
+    {
+      "issuer": "KURSUS DIGITAL",
+      "credentialUrl": "",
+      "image": "/uploads/certificates-1789281899743-336ote.jpg",
+      "id": "cert-1789281950334",
+      "issueDate": "13 September 2026",
+      "title": "Microsoft Office",
+      "description": ""
+    },
+    {
+      "credentialUrl": "https://www.dicoding.com/certificates/MRZMVQQGLZYQ",
+      "issueDate": "13 September 2026",
+      "image": "/uploads/certificates-1789298730914-6bu882.jpg",
+      "description": "",
+      "id": "cert-1789298790023",
+      "issuer": "Dicoding Indonesia",
+      "title": "Belajar Dasar AI"
+    },
+    {
+      "description": "",
+      "id": "cert-1789309303322",
+      "image": "/uploads/certificates-1789309259353-3tseoh.jpg",
+      "title": "Basics of Microsoft Power BI",
+      "issuer": "Athena Global Education",
+      "credentialUrl": "",
+      "issueDate": "13 September 2026"
+    },
+    {
+      "issueDate": "14 September 2026",
+      "title": "Introduction Financial Literacy",
+      "issuer": "Dicoding Indonesia",
+      "id": "cert-1789353290107",
+      "description": "",
+      "credentialUrl": "",
+      "image": "/uploads/certificates-1789353256910-vlha8g.jpg"
+    },
+    {
+      "issuer": "HALOTECH ACADEMY",
+      "id": "cert-1789394640164",
+      "image": "/uploads/certificates-1789394627886-l3o9g9.jpg",
+      "issueDate": "13 September 2026",
+      "description": "",
+      "title": "Alur Belajar Data Analyst",
+      "credentialUrl": ""
+    },
+    {
+      "image": "/uploads/certificates-1789605937008-k885tm.jpg",
+      "credentialUrl": "",
+      "description": "",
+      "id": "cert-1789605957816",
+      "issueDate": "9 September 2026",
+      "issuer": "MySkill",
+      "title": "Introduction to UX Research"
+    },
+    {
+      "description": "",
+      "issuer": "PT. Velasto Indonesia",
+      "image": "/uploads/certificates-1789740190394-1y6hs0.jpg",
+      "title": "Internship Certificate",
+      "id": "cert-1789720184812",
+      "credentialUrl": "",
+      "issueDate": "31 Agustus 2026"
+    },
+    {
+      "description": "",
+      "title": "HR Compensation & Benefits",
+      "issuer": "MySkill",
+      "credentialUrl": "",
+      "issueDate": "14 Sepetmber 2026",
+      "image": "/uploads/certificates-1789831536903-5shd7j.jpg",
+      "id": "cert-1789831538379"
+    },
+    {
+      "issueDate": "17 September 2026",
+      "title": "Pahami Ancaman Prompt Injection pada Web App di Era Al Agents",
+      "description": "",
+      "credentialUrl": "",
+      "issuer": "exabytes DepeloverClub",
+      "image": "/uploads/certificates-1790974947827-kyl2q7.jpg",
+      "id": "cert-1790975047706"
+    },
+    {
+      "description": "",
+      "issuer": "Athena Global Education",
+      "title": "Basics of UI UX Strategy",
+      "issueDate": "3 Oktober 2026",
+      "image": "/uploads/certificates-1791032610042-nzamim.jpg",
+      "credentialUrl": "",
+      "id": "cert-1791028180002"
+    }
+  ],
+  "publications": [
+    {
+      "doi": "",
+      "publisher": "Volume 12, Nomor 1, Januari 2028 • SINTA 4",
+      "journal": "Jurnal Ilmiah Teknik Industri (INDUSTRIKA)",
+      "pdfUrl": "",
+      "authors": "Cooming Soon",
+      "year": "2026",
+      "tags": [
+        "Fishbone Diagram",
+        "Lean Manufacturing",
+        "Preparation Delivery",
+        "Scan-Based System",
+        "Standard Time",
+        "Time Study"
+      ],
+      "id": "pub-1791007806255",
+      "abstract": "Export logistics preparation is often hindered by procedural inefficiencies that risk delaying vessel departures. At PT Velasto Indonesia, a high reliance on manual validation and unstandardized work areas caused significantly prolonged operational times. This study addresses these issues by measuring standard time, identifying wastes, and evaluating the implementation of a scanning (barcode/QR) system. Using Time Study, Lean, and Fishbone Diagram approaches, the initial standard time was recorded at 402.64 minutes per cycle, dominated by waiting, motion, and overprocessing wastes. Improvements were implemented through scan-based validation, pre-Packing rack provision, and inspection document digitization. Consequently, the standard time was significantly reduced to 311.13 minutes, achieving a 22.73% efficiency gain. These findings confirm that combining Lean with simple digital automation effectively eliminates hidden wastes in export logistics.",
+      "title": "Analisis Waktu Proses Preparation Delivery ADM Ekspor Melalui Penerapan Sistem By Scan untuk Meminimasi Validasi Manual di PT Velasto Indonesia",
+      "link": "https://jurnal.utb.ac.id/index.php/indstrk/index"
+    },
+    {
+      "year": "2027",
+      "journal": "Jurnal Ilmiah Teknik Industri (INDUSTRIKA)",
+      "abstract": "Employee performance stagnation, which adversely affects productivity, remains a major issue in the manufacturing industry despite increasing investments in technology, indicating that non-technological factors, particularly job satisfaction, have not been optimally managed. This study analyzes the multivariate effects of compensation, work environment, and career development on employee productivity and performance using a CB-SEM approach with data from 400 manufacturing employees in West Java analyzed through AMOS version 24. The results show that compensation (β = 0.322), career development (β = 0.307), and work environment (β = 0.262) have significant positive effects on productivity. Productivity is confirmed as a partial mediator with the strongest influence on employee performance (β = 0.348). The model demonstrates excellent goodness-of-fit (RMSEA = 0.013; CFI = 0.996), emphasizing the importance of fair remuneration strategies, adequate work environments, and clear career development pathways in enhancing productivity and employee performance in the manufacturing industry.",
+      "id": "pub-1791007584437",
+      "pdfUrl": "",
+      "authors": "Cooming Soon",
+      "publisher": "Volume 11, Nomor 1, Januari 2027 • SINTA 4",
+      "link": "https://jurnal.utb.ac.id/index.php/indstrk/index",
+      "tags": [
+        "Compensation",
+        "employee performance",
+        "job satisfaction",
+        "productivity",
+        "structural equation modeling"
+      ],
+      "doi": "",
+      "title": "Analisis Multivariat Pengaruh Kepuasan Kerja Terhadap Produktivitas Karyawan di Industri Manufaktur Menggunakan Pendekatan CB-SEM"
+    }
+  ],
+  "visitors": [
+    {
+      "visitorId": "vis_1791440725146_hl5dv2",
+      "lastActive": "2026-10-08T07:35:05.081Z",
+      "deviceType": "Desktop",
+      "visitedSections": [
+        "Beranda"
+      ],
+      "browser": "Microsoft Edge",
+      "ip": "127.0.0.1",
+      "id": "vis-1791440740720-h2ts",
+      "referrer": "Direct",
+      "visitCount": 1,
+      "durationSeconds": 4164,
+      "countryCode": "ID",
+      "os": "Windows",
+      "timestamp": "2026-10-08T06:25:40.720Z",
+      "screenResolution": "1280x720",
+      "city": "Indonesia",
+      "country": "Indonesia",
+      "region": ""
+    },
+    {
+      "visitCount": 1,
+      "os": "macOS",
+      "city": "Indonesia",
+      "countryCode": "ID",
+      "visitedSections": [
+        "Beranda",
+        "Portofolio"
+      ],
+      "browser": "Unknown",
+      "timestamp": "2026-10-07T08:57:07.494Z",
+      "region": "",
+      "screenResolution": "390x844",
+      "visitorId": "vis_1791363427470_gi9yiq",
+      "lastActive": "2026-10-07T08:57:53.399Z",
+      "deviceType": "Mobile",
+      "durationSeconds": 46,
+      "referrer": "https://www.linkedin.com/",
+      "country": "Indonesia",
+      "ip": "103.113.49.26",
+      "id": "vis-1791363427494-fe9s"
+    },
+    {
+      "visitedSections": [
+        "Beranda"
+      ],
+      "timestamp": "2026-10-05T00:07:43.930Z",
+      "region": "",
+      "country": "Indonesia",
+      "ip": "103.113.49.26",
+      "deviceType": "Desktop",
+      "lastActive": "2026-10-05T00:07:43.930Z",
+      "id": "vis-1791158863930-e3ls",
+      "countryCode": "ID",
+      "referrer": "Direct",
+      "os": "Windows",
+      "browser": "Microsoft Edge",
+      "visitorId": "vis_1791158868016_9awkb2",
+      "visitCount": 1,
+      "city": "Indonesia",
+      "durationSeconds": 1,
+      "screenResolution": "1280x720"
+    },
+    {
+      "timestamp": "2026-10-02T04:11:16.268Z",
+      "os": "Windows",
+      "region": "",
+      "deviceType": "Desktop",
+      "lastActive": "2026-10-02T04:11:16.268Z",
+      "visitedSections": [
+        "Beranda"
+      ],
+      "browser": "Chrome",
+      "durationSeconds": 1,
+      "referrer": "Direct",
+      "countryCode": "ID",
+      "city": "Indonesia",
+      "visitCount": 1,
+      "ip": "2607:f8b0:400c:c2c::24",
+      "visitorId": "vis_1790914276000_l6jia3",
+      "screenResolution": "1920x1080",
+      "id": "vis-1790914276268-0vhj",
+      "country": "Indonesia"
+    },
+    {
+      "visitCount": 1,
+      "city": "Indonesia",
+      "ip": "2607:f8b0:4001:c40::b",
+      "referrer": "Direct",
+      "id": "vis-1790914251251-ywn6",
+      "durationSeconds": 1,
+      "visitorId": "vis_1790914250568_of2tkb",
+      "browser": "Chrome",
+      "deviceType": "Desktop",
+      "lastActive": "2026-10-02T04:10:51.251Z",
+      "region": "",
+      "countryCode": "ID",
+      "timestamp": "2026-10-02T04:10:51.251Z",
+      "visitedSections": [
+        "Beranda"
+      ],
+      "screenResolution": "1920x1080",
+      "os": "Windows",
+      "country": "Indonesia"
+    },
+    {
+      "visitorId": "vis_1790914248089_muqi7d",
+      "referrer": "Direct",
+      "city": "Indonesia",
+      "durationSeconds": 1,
+      "region": "",
+      "visitCount": 1,
+      "os": "Windows",
+      "browser": "Chrome",
+      "id": "vis-1790914248295-ezw7",
+      "ip": "2607:f8b0:4001:c47::20",
+      "lastActive": "2026-10-02T04:10:48.295Z",
+      "countryCode": "ID",
+      "deviceType": "Desktop",
+      "timestamp": "2026-10-02T04:10:48.295Z",
+      "screenResolution": "1920x1080",
+      "visitedSections": [
+        "Beranda"
+      ],
+      "country": "Indonesia"
+    },
+    {
+      "visitCount": 1,
+      "region": "",
+      "id": "vis-1790685903504-fzqp",
+      "ip": "114.5.214.30",
+      "browser": "Chrome",
+      "durationSeconds": 1,
+      "referrer": "http://lnkd.in/",
+      "visitorId": "vis_1790685902427_lq14ww",
+      "lastActive": "2026-09-29T12:45:03.504Z",
+      "visitedSections": [
+        "Beranda"
+      ],
+      "deviceType": "Mobile",
+      "screenResolution": "521x1157",
+      "timestamp": "2026-09-29T12:45:03.504Z",
+      "countryCode": "ID",
+      "os": "Linux",
+      "country": "Indonesia",
+      "city": "Indonesia"
+    },
+    {
+      "visitedSections": [
+        "Beranda"
+      ],
+      "id": "vis-1790240143468-gsjz",
+      "countryCode": "ID",
+      "ip": "114.124.213.105",
+      "browser": "Chrome",
+      "screenResolution": "384x832",
+      "timestamp": "2026-09-24T08:55:43.467Z",
+      "visitCount": 1,
+      "city": "Indonesia",
+      "region": "",
+      "country": "Indonesia",
+      "referrer": "android-app://com.linkedin.android/",
+      "os": "Linux",
+      "deviceType": "Mobile",
+      "durationSeconds": 1,
+      "lastActive": "2026-09-24T08:55:43.467Z",
+      "visitorId": "vis_1790240143177_9fbjx2"
+    },
+    {
+      "referrer": "android-app://com.linkedin.android/",
+      "visitCount": 1,
+      "country": "Indonesia",
+      "os": "Linux",
+      "visitedSections": [
+        "Beranda"
+      ],
+      "screenResolution": "385x854",
+      "visitorId": "vis_1790164966963_zvhrqk",
+      "city": "Indonesia",
+      "timestamp": "2026-09-23T12:02:47.465Z",
+      "id": "vis-1790164967465-w85z",
+      "durationSeconds": 1,
+      "lastActive": "2026-09-23T12:02:47.465Z",
+      "countryCode": "ID",
+      "ip": "114.4.82.31",
+      "deviceType": "Mobile",
+      "region": "",
+      "browser": "Chrome"
+    },
+    {
+      "ip": "114.122.32.197",
+      "referrer": "Direct",
+      "visitCount": 1,
+      "country": "Indonesia",
+      "id": "vis-1790147884368-5w4z",
+      "timestamp": "2026-09-23T07:18:04.368Z",
+      "durationSeconds": 1,
+      "visitorId": "vis_1790147884214_5o6csc",
+      "visitedSections": [
+        "Beranda"
+      ],
+      "deviceType": "Mobile",
+      "browser": "Chrome",
+      "screenResolution": "384x656",
+      "lastActive": "2026-09-23T07:18:04.368Z",
+      "countryCode": "ID",
+      "city": "Indonesia",
+      "os": "Linux",
+      "region": ""
+    },
+    {
+      "visitedSections": [
+        "Beranda"
+      ],
+      "region": "",
+      "lastActive": "2026-09-23T07:18:00.221Z",
+      "deviceType": "Mobile",
+      "os": "Linux",
+      "city": "Indonesia",
+      "screenResolution": "376x835",
+      "country": "Indonesia",
+      "referrer": "android-app://com.linkedin.android/",
+      "visitorId": "vis_1790147879303_59dtsh",
+      "timestamp": "2026-09-23T07:18:00.221Z",
+      "visitCount": 1,
+      "countryCode": "ID",
+      "ip": "125.162.14.72",
+      "id": "vis-1790147880221-rvt1",
+      "browser": "Chrome",
+      "durationSeconds": 1
+    },
+    {
+      "os": "macOS",
+      "countryCode": "ID",
+      "browser": "Unknown",
+      "visitedSections": [
+        "Beranda"
+      ],
+      "city": "Indonesia",
+      "lastActive": "2026-09-22T14:07:35.398Z",
+      "deviceType": "Mobile",
+      "timestamp": "2026-09-18T08:18:51.594Z",
+      "durationSeconds": 366524,
+      "visitorId": "vis_1789719531134_basliz",
+      "screenResolution": "390x844",
+      "ip": "103.176.96.182",
+      "region": "",
+      "country": "Indonesia",
+      "visitCount": 1,
+      "referrer": "https://www.linkedin.com/",
+      "id": "vis-1789719531594-0xar"
+    },
+    {
+      "referrer": "https://www.linkedin.com/",
+      "countryCode": "ID",
+      "city": "Indonesia",
+      "browser": "Unknown",
+      "visitCount": 1,
+      "visitorId": "vis_1789304441636_23f33i",
+      "os": "macOS",
+      "durationSeconds": 1,
+      "timestamp": "2026-09-13T13:00:41.693Z",
+      "visitedSections": [
+        "Beranda"
+      ],
+      "ip": "140.213.33.169",
+      "region": "",
+      "id": "vis-1789304441693-viy9",
+      "country": "Indonesia",
+      "deviceType": "Mobile",
+      "lastActive": "2026-09-13T13:00:41.693Z",
+      "screenResolution": "390x844"
+    },
+    {
+      "id": "vis-1788828438882-jr9u",
+      "referrer": "Direct",
+      "region": "",
+      "browser": "Chrome",
+      "visitCount": 1,
+      "ip": "114.5.215.32",
+      "visitorId": "vis_1788828438178_sqallq",
+      "countryCode": "ID",
+      "visitedSections": [
+        "Beranda",
+        "Tentang",
+        "Portofolio",
+        "Kontak"
+      ],
+      "city": "Indonesia",
+      "timestamp": "2026-09-08T00:47:18.881Z",
+      "country": "Indonesia",
+      "deviceType": "Tablet",
+      "durationSeconds": 211609,
+      "lastActive": "2026-09-10T11:34:08.067Z",
+      "os": "Linux",
+      "screenResolution": "521x1157"
+    },
+    {
+      "country": "Indonesia",
+      "visitedSections": [
+        "Beranda",
+        "Tentang",
+        "Portofolio",
+        "Kontak"
+      ],
+      "city": "Indonesia",
+      "ip": "103.113.49.26",
+      "visitCount": 1,
+      "timestamp": "2026-09-03T08:54:50.695Z",
+      "id": "vis-1788425690695-6wfo",
+      "visitorId": "vis_1788425691077_ubtnl6",
+      "browser": "Chrome",
+      "screenResolution": "1280x720",
+      "os": "Windows",
+      "countryCode": "ID",
+      "deviceType": "Desktop",
+      "referrer": "https://www.linkedin.com/",
+      "lastActive": "2026-10-08T04:54:52.832Z",
+      "region": "",
+      "durationSeconds": 3009602
+    },
+    {
+      "countryCode": "ID",
+      "referrer": "Direct",
+      "country": "Indonesia",
+      "id": "vis-1788406856151-kshc",
+      "timestamp": "2026-09-03T03:40:56.151Z",
+      "ip": "114.5.211.210",
+      "durationSeconds": 2956353,
+      "visitCount": 1,
+      "city": "Indonesia",
+      "visitorId": "vis_1788406855535_7mc9ew",
+      "os": "Linux",
+      "visitedSections": [
+        "Beranda",
+        "Tentang",
+        "Portofolio",
+        "Kontak"
+      ],
+      "browser": "Chrome",
+      "screenResolution": "521x1157",
+      "region": "",
+      "deviceType": "Mobile",
+      "lastActive": "2026-10-07T08:53:29.078Z"
+    },
+    {
+      "deviceType": "Desktop",
+      "lastActive": "2026-10-08T04:55:52.142Z",
+      "referrer": "https://aistudio.google.com/",
+      "browser": "Chrome",
+      "visitorId": "vis_1788406741302_51b0ao",
+      "visitedSections": [
+        "Beranda",
+        "Portofolio",
+        "Tentang",
+        "Kontak"
+      ],
+      "os": "Windows",
+      "visitCount": 1,
+      "ip": "103.113.49.26",
+      "country": "Indonesia",
+      "city": "Indonesia",
+      "id": "vis-1788406740718-rtqw",
+      "durationSeconds": 3028611,
+      "screenResolution": "1280x720",
+      "countryCode": "ID",
+      "timestamp": "2026-09-03T03:39:00.718Z",
+      "region": ""
+    },
+    {
+      "region": "",
+      "timestamp": "2026-09-03T02:14:58.319Z",
+      "durationSeconds": 2706681,
+      "lastActive": "2026-10-04T10:06:19.271Z",
+      "deviceType": "Desktop",
+      "countryCode": "ID",
+      "os": "Windows",
+      "browser": "Chrome",
+      "referrer": "https://aistudio.google.com/",
+      "id": "vis-1788401698319-ch3c",
+      "screenResolution": "1280x720",
+      "ip": "114.5.251.245",
+      "visitCount": 1,
+      "visitedSections": [
+        "Beranda",
+        "Tentang",
+        "Portofolio",
+        "Kontak"
+      ],
+      "city": "Indonesia",
+      "country": "Indonesia",
+      "visitorId": "vis_1788401698818_8jrn9i"
+    }
+  ]
+}

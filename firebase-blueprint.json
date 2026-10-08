@@ -1,0 +1,88 @@
+{
+  "entities": {
+    "PortfolioItem": {
+      "title": "Portfolio Segment",
+      "description": "Represents a section of the user's portfolio data",
+      "type": "object",
+      "properties": {
+        "data": {
+          "type": "object",
+          "description": "The dynamic list or settings object for this portfolio section"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Timestamp when this section was last updated"
+        }
+      },
+      "required": ["data"]
+    },
+    "UploadedMedia": {
+      "title": "Uploaded Media Asset",
+      "description": "Persistent file and image storage across container restarts",
+      "type": "object",
+      "properties": {
+        "fileName": {
+          "type": "string",
+          "description": "The clean unique file name"
+        },
+        "mimeType": {
+          "type": "string",
+          "description": "MIME type of the media file (image/jpeg, image/png, application/pdf, etc.)"
+        },
+        "data": {
+          "type": "string",
+          "description": "Base64 data URL representation or primary data chunk"
+        },
+        "size": {
+          "type": "number",
+          "description": "File size in bytes"
+        },
+        "isChunked": {
+          "type": "boolean",
+          "description": "Whether media exceeds single document limit and is stored across subcollection chunks"
+        },
+        "totalChunks": {
+          "type": "number",
+          "description": "Total number of chunks if chunked"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "Timestamp when the media was saved"
+        }
+      },
+      "required": ["fileName", "mimeType"]
+    },
+    "MediaChunk": {
+      "title": "Media Chunk",
+      "description": "A slice of an oversized media file",
+      "type": "object",
+      "properties": {
+        "index": {
+          "type": "number",
+          "description": "The zero-based sequence index of the chunk"
+        },
+        "data": {
+          "type": "string",
+          "description": "Base64 string segment"
+        }
+      },
+      "required": ["index", "data"]
+    }
+  },
+  "firestore": {
+    "/portfolio_data/{sectionId}": {
+      "schema": "PortfolioItem",
+      "description": "Store each segment of the portfolio: projects, skills, experiences, educations, messages, and settings"
+    },
+    "/uploaded_media/{mediaId}": {
+      "schema": "UploadedMedia",
+      "description": "Permanent store for images, logos, certificates, documentation photos, and PDFs"
+    },
+    "/uploaded_media/{mediaId}/chunks/{chunkId}": {
+      "schema": "MediaChunk",
+      "description": "Storage for large media files chunked across subcollections"
+    }
+  }
+}
